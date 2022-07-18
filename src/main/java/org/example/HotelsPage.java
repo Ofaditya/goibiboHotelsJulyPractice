@@ -3,12 +3,9 @@ package org.example;
 import Util.BaseClass;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 
-import javax.xml.xpath.XPath;
 import java.util.List;
 
 public class HotelsPage extends BaseClass {
